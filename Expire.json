@@ -11,6 +11,6 @@
     "username": "mujahiid",
     "password": "mujahiid123",
     "expiresAt": "2025-01-07",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
