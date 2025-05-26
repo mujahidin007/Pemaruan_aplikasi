@@ -12,5 +12,12 @@
     "password": "mujahiid1234",
     "expiresAt": "2025-06-29",
     "allowOffline": true
+  },
+  {
+    "id": "4a9ba1295aed5104",
+    "username": "erwin",
+    "password": "erwin123",
+    "expiresAt": "2025-10-26",
+    "allowOffline": true
   }
 ]
