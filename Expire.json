@@ -26,5 +26,12 @@
     "password": "solichin001",
     "expiresAt": "2025-06-10",
     "allowOffline": true
+  },
+   {
+    "id": "2b39d70ac01cdb19",
+    "username": "miky",
+    "password": "miky1234",
+    "expiresAt": "2025-08-27",
+    "allowOffline": true
   }
 ]
