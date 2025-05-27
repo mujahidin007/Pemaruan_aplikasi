@@ -19,5 +19,12 @@
     "password": "erwin123",
     "expiresAt": "2025-10-26",
     "allowOffline": true
+  },
+   {
+    "id": "2b39d70ac01cdb19",
+    "username": "solichin",
+    "password": "solichin001",
+    "expiresAt": "2025-06-10",
+    "allowOffline": true
   }
 ]
