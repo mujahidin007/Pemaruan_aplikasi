@@ -40,5 +40,12 @@
     "password": "dayat123",
     "expiresAt": "2025-08-27",
     "allowOffline": true
+  },
+  {
+    "id": "1f1d55a400ca775e",
+    "username": "rachmat",
+    "password": "rachmat123",
+    "expiresAt": "2025-09-28",
+    "allowOffline": true
   }
 ]
