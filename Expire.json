@@ -47,5 +47,12 @@
     "password": "rachmat123",
     "expiresAt": "2025-09-28",
     "allowOffline": true
+  },
+  {
+    "id": "20c1a803ffb23d48",
+    "username": "ahmad",
+    "password": "ahmad123",
+    "expiresAt": "2025-07-04",
+    "allowOffline": true
   }
 ]
