@@ -117,5 +117,12 @@
     "password": "rajo123",
     "expiresAt": "2025-07-15",
     "allowOffline": true
+  },
+  {
+    "id": "a4c4ef93e07bc2d9",
+    "username": "agus",
+    "password": "agus123",
+    "expiresAt": "2025-10-10",
+    "allowOffline": true
   }
 ]
