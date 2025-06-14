@@ -1,5 +1,12 @@
 [
   {
+    "id": "f7b4ed4f631a344e",
+    "username": "idin",
+    "password": "1",
+    "expiresAt": "2025-06-29",
+    "allowOffline": true
+  },
+  {
     "id": "44676ac8ea4d3189",
     "username": "tio",
     "password": "tio12345",
